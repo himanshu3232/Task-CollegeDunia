@@ -17,17 +17,14 @@ Task-Himanshu is a robust frontend project which adds functionality such as load
 
 ## Screenshots
 
-![Feed Page](screenshots/Screenshot_2024-05-21_074710.png)
-_Feed Page_
+![Home Page](screenshots\ss1.png)
+_Home Page_
 
-![Profile Page](screenshots/Screenshot_2024-05-21_074736.png)
-_Profile Page_
+![Filtering](screenshots\ss2.png)
+_Filtering_
 
-![Comments](screenshots/Screenshot_2024-05-21_074755.png)
-_Comments_
-
-![Premium](screenshots/Screenshot_2024-05-21_074806.png)
-_Premium_
+![Sorting](screenshots\ss3.png)
+_Sorting_
 
 ## Installation
 
