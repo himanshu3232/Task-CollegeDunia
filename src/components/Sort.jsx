@@ -15,6 +15,7 @@ export default function Sort() {
         <option value="2">Rankings</option>
         <option value="3">Fees</option>
         <option value="4">Reverse</option>
+        <option value="5">Rating</option>
       </select>
     </div>
   );
