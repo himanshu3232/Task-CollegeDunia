@@ -1,0 +1,12 @@
+.filter {
+  width: 20rem;
+  margin-bottom: 1rem;
+  margin-left: auto;
+}
+
+.header {
+  width: max-content;
+  margin: 0 auto;
+  margin-bottom: 0.5rem;
+}
+
